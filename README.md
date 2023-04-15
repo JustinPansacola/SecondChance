@@ -1,4 +1,4 @@
-#Hey there! Welcome to SecondChance.
+# Hey there! Welcome to SecondChance.
 
 This was a school group project for our IS213 Enterprise Solution Development module. We were required to create a full-stack web application to display our knowledge of Complex and Simple Microservices along with knowing how to use Docker containers. Additionally, we had implemented Kong as an API Gateway and message brokers such as Kafka and RabbitMQ.
 
